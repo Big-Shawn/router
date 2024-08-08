@@ -120,9 +120,9 @@ export V2RAYA_V2RAY_ASSETSDIR=/home/root/.local/share/v2ray/
 
 
 
-技术交流群：
+### 技术交流群：
 
-<img src="pics/img.png" width="300" height="300">
+<img src="pics/img.png" width="300" height="300" >
 
 [Telegram-Link](https://t.me/+k6E4F-iUd-Y1OTNl)
 
