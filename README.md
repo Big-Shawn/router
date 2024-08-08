@@ -8,7 +8,7 @@
 
 ## 通则 VN007、VN007+ ：
 
-* 准备文件下载 (本项目vn007+文件夹下已经整理好)
+* 准备文件下载
 
 * 登陆路由
 
@@ -122,7 +122,7 @@ export V2RAYA_V2RAY_ASSETSDIR=/home/root/.local/share/v2ray/
 
 技术交流群：
 
-![img.png](pics/img.png)
+<img src="pics/img.png" width="300" height="300">
 
 [Telegram-Link](https://t.me/+k6E4F-iUd-Y1OTNl)
 
